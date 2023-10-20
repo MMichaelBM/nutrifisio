@@ -1,0 +1,91 @@
+body {
+	background-image: url("imagens/background.jpg");
+	background-position: center;
+	font-family: Georgia, serif;
+}
+
+#topo {
+
+display: flex;
+justify-content: center;
+align-items: center
+
+}
+
+#menu {
+
+	font-size: 22px;
+	margin: 8px;
+	height: 11px;
+	text-align: center;
+	margin-inline: 1em;
+
+}
+#linktopo:hover {
+	text-decoration: none;
+	font-style: solid;
+	background-color: #F5DEB3;
+}
+
+
+#menus {
+	margin-inline: 1em;
+	background-color: #FFE4C4;
+	font-size: 1.2em;
+	color: red;
+}
+a {
+	text-decoration: none;
+	margin-inline: 10px;
+}
+a:hover {
+	color: black;
+	background-color: #FDF5E6;
+}
+#infocontato {
+	text-align: center;
+	font-size: 21px;
+	margin: 11px;
+
+}
+footer {
+	text-align: center;
+	float: bottom;
+	margin-top: 250px;
+}
+#trat {
+	margin: 44px;
+
+}
+li {
+	text-align: cent;
+}
+
+#nutrifoto {
+	align: left;
+	margin: 44px;
+	text-align: left;
+	padding: 22px;
+
+}
+
+#fisiofoto {
+
+	margin: 44px;
+	text-align: right;
+	padding: 22px;
+	
+	
+}
+
+.textonutri {
+	font-size: 1.5em;
+	color: gray;
+	text-indent: 22px; 
+}
+#fotonutri {
+	padding: 11px;
+	margin-left: 44px;
+	margin-top: 44px;
+}
+		}
